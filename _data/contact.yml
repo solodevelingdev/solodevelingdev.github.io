@@ -2,17 +2,20 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/solodevelingdev/"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: "https://x.com/solodevelingdev"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
+- type: apps
+  icon: "fas fa-rocket"
   noblank: true
+  url: 'https://apps.com'
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
