@@ -1,6 +1,6 @@
 ---
 title: "How to Host a Blog on Github Pages"
-date: 2025-03-15 12:00:00 +0100
+date: 2025-03-17 12:00:00 +0100
 categories: [Blog]
 tags: [second-post, blog,blog-creation]
 toc: true
@@ -35,7 +35,7 @@ rbenv global 3.4.1
 
 ## Conclusion
 
-Now with the correct version of Ruby you should be able to install 
+Now with the correct version of Ruby you should be able to install Jekyll and setup you local environment that enables you to write your blog posts and customize your blog template if you want.
 
 ## References
 
